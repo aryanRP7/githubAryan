@@ -1,4 +1,4 @@
 # githubAryan
 My First Repository
 <br>
-Author = Aryan
+Author = Aryan Patre
